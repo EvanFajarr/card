@@ -347,3 +347,9 @@ body {
     font-weight: lighter;
   }
 }
+
+@media (max-width: 768px) {
+  .swal-mobile-container {
+    max-width: 90%; /* Mengatur lebar maksimum untuk responsif di mobile */
+  }
+}
