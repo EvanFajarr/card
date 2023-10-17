@@ -347,6 +347,10 @@ body {
     font-weight: lighter;
   }
 }
+.swal2-popup {
+  font-size: 16px; /* Sesuaikan dengan ukuran teks yang sesuai */
+}
+
 
 @media (max-width: 768px) {
   .swal-mobile-container {
