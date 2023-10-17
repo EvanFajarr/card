@@ -3,7 +3,10 @@ window.addEventListener('load', () => {
 
   
  
+  document.querySelector('.song').play();
 
+  
+  resolveFetch().then(animationTimeline());
 
 
 // animation timeline
